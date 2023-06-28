@@ -9,22 +9,22 @@ The goal of this project was to take existing code for a website, and refactor t
 
 ### Comments
 
-*Changed title to be more relevant/descriptive.
-*Refactored the css code to follow the flow of the html.
-*Removed and consolidated reduntant css selectors and properties.
-*Removed unnecessary htmls classes and id's.
-*Refactored non-semantic html containers to semantic html.
-*Added alt attributes to images to improve accessibility for screen readers.
+* Changed title to be more relevant/descriptive.
+* Refactored the css code to follow the flow of the html.
+* Removed and consolidated reduntant css selectors and properties.
+* Removed unnecessary htmls classes and id's.
+* Refactored non-semantic html containers to semantic html.
+* Added alt attributes to images to improve accessibility for screen readers.
 
 ### Deployed Website
 
 [Horiseon](https://newprice247.github.io/module-1-challenge/)
 
-![Screenshot of Horiseon website](./02-Challenge/Assets/01-html-css-git-homework-demo.png")
+![Screenshot of Horiseon website](./02-Challenge/Assets/01-html-css-git-homework-demo.png)
 
 ## Credits
 
-The original source code was created by [The Coding Bootcamp](https://github.com/coding-boot-camp/urban-octo-telegram)
+The original source code was created by [The Coding Bootcamp](https://github.com/coding-boot-camp/urban-octo-telegram). The original source code is inluded in this repository, located in the "02-Challenge" folder.
 
 
 ## Contact Me
