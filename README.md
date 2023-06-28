@@ -1,5 +1,5 @@
 
-# <Module 1 Challenge>
+# Horiseon: Module 1 Challenge
 
 ## Description
 
@@ -18,7 +18,7 @@ The goal of this project was to take existing code for a website, and refactor t
 
 ### Deployed Website
 
-[Horiseon](https://newprice247.github.io/module-1-challenge/)
+[Horiseon Website](https://newprice247.github.io/module-1-challenge/)
 
 ![Screenshot of Horiseon website](./02-Challenge/Assets/01-html-css-git-homework-demo.png)
 
