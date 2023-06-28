@@ -20,8 +20,7 @@ The goal of this project was to take existing code for a website, and refactor t
 
 [Horiseon Website](https://newprice247.github.io/module-1-challenge/)
 
-![Screenshot of Horiseon website](./02-Challenge/Assets/01-html-css-git-homework-demo.png)
-
+![Screenshot of Horiseon website](/module-1-challenge/assets/images/newprice247.github.io_horiseon-mod-1)
 ## Credits
 
 The original source code was created by [The Coding Bootcamp](https://github.com/coding-boot-camp/urban-octo-telegram). The original source code is inluded in this repository, located in the "02-Challenge" folder.
